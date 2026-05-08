@@ -1,3 +1,4 @@
+![logo](https://github.com/dk-danishkhan/dk-danishkhan/blob/main/GitHub%20Banner.png)
 <h1 align="center">Hi 👋, I'm Danish Khan</h1>
 <h3 align="center">Cloud Computing and DevOps enthusiast from India</h3>
 
